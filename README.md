@@ -1,3 +1,3 @@
 #talkart
 Server Repo: https://github.com/alteredtastes/talkart-server  
-Database Repo: https://github.com/alteredtastes/talkart-db
+Database Repo: https://github.com/alteredtastes/talkart-database
